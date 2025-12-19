@@ -1,0 +1,11 @@
+openhandLoop.py                   测试Agent之间配合
+openhandsAgentDelegation.py       测试Agent自定义委派
+openhandsAgentDelegationDemo.py   测试Agent自带的委派
+openhandsBrowerUser.py            测试浏览器使用
+openhandsMCP.py                   测试MCP调用
+openhandsSkillsTest.py            测试  调用技能
+openhandsSkillsTest2.py           测试  调用本地技能
+openhandsSkillsTest3.py           测试  调用github上的技能
+openhandsTerminal.py              测试命令行技能
+openhandstest1.py                 测试hello world
+openhandsUserConfirm.py           测试执行时需要用户确认
