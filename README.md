@@ -15,3 +15,11 @@
 
 - 详细学习笔记：测试执行时需要用户确认【有道云笔记】10.1  openhands备注
 https://share.note.youdao.com/s/6gqusIHq
+- 
+- 常用
+        官网：                                https://docs.openhands.dev/
+        github:                                https://github.com/OpenHands/OpenHands
+        官方web版使用Demo:       https://app.all-hands.dev/
+       常用命令：   openhands                           //启动命令行
+                             openhands serve                 //启动 web页面     
+
