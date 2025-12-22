@@ -11,3 +11,7 @@
 - `openhandstest1.py`：测试 hello world
 - `openhandstest1.py`：测试 hello world  HTTP调
 - `openhandsUserConfirm.py`：测试执行时需要用户确认
+
+
+- 详细学习笔记：测试执行时需要用户确认【有道云笔记】10.1  openhands备注
+https://share.note.youdao.com/s/6gqusIHq
