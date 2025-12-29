@@ -4,6 +4,14 @@ Agent 委托示例
 此示例演示了 Agent 委托功能，主 Agent 将任务委托给子 Agent 进行并行处理。
 每个子 Agent 独立运行并将结果返回给主 Agent，
 主 Agent 然后将两个分析合并成一个统一的报告。
+
+
+备注：
+
+如果报错需要delegate_tool_description.j2     请将项目下的delegate_tool_description.j2 丢到你的环境目录下 这是官方的bug打包时没打进去
+例如
+                                                  你的python环境下               
+/Users/XXX用户/opt/anaconda3/envs/openhands/lib/python3.12/site-packages/openhands/tools/delegate/templates/delegate_tool_description.j2
 """
 
 import os
