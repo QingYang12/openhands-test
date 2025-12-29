@@ -1,0 +1,28 @@
+# Delegate Tool
+
+Delegate tasks to specialized sub-agents for parallel processing.
+
+## Workspace
+All sub-agents work in: `{{ workspace_path }}`
+
+## {{ agent_types_info }}
+
+## Commands
+
+### spawn
+Initialize sub-agents with unique identifiers:
+```
+spawn(ids=["agent1", "agent2"], agent_types=["researcher", "default"])
+```
+
+### delegate
+Assign tasks to spawned agents:
+```
+delegate(tasks={"agent1": "Research topic X", "agent2": "Analyze data Y"})
+```
+
+## Usage Pattern
+1. First spawn agents with unique IDs
+2. Then delegate specific tasks to each agent
+3. Agents work in parallel and return results
+
